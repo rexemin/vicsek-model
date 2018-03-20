@@ -2,10 +2,7 @@
 This module implements the Vicsek simulation.
 
 Author: Ivan A. Moreno Soto
-Last updated: 16/March/2018
-
-TODO:
-1. Make animation of the system evolution.
+Last updated: 19/March/2018
 """
 
 ################################################################################
